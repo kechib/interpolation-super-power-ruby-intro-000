@@ -3,4 +3,3 @@ puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B #{co
 end
 
 print_display_rainbow(R, O, Y, G, B, I, V)
-
